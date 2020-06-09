@@ -16,7 +16,15 @@ public class Codified {
 
 
 
+	@Override
+	public String toString() {
+		return "Codified [nom=" + nom + "]";
+	}
+
+
+
 	public static void main(String[] args) {
 		System.out.println("apples");
 	}
 }
+ 
