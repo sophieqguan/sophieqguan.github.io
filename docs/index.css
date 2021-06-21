@@ -2,5 +2,8 @@ body {
 background-color: #170800;
 }
 #title {
+  background-color: #240d01;
   color:#FFFFFF;
+  padding: 40px;
+  text-align: center;
 }
