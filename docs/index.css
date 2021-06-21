@@ -4,8 +4,7 @@ body {
   margin: 0; /* recommended */
 }
 #title {
-  background-color: #240d01;
-  color:#FFFFFF;
+  color:#4a1e07;
   position: absolute; 
    top: 50%; 
    transform: translateY(-50%); 
