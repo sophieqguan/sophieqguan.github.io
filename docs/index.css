@@ -6,10 +6,10 @@ body {
 #title {
   background-color: #240d01;
   color:#FFFFFF;
-  position: absolute; /* taken out of the normal flow of the document */
-   top: 50%; /* moved down by 50% of the screen height */
-   transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
-   width: 100%; /* needs to be defined to keep the default block behavior */
+  position: absolute; 
+   top: 50%; 
+   transform: translateY(-50%); 
+   width: 100%; 
    text-align: center;
-   margin: 0; /* again, for perfect center */
+   margin: 0;
 }
