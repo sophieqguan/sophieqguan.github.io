@@ -1,14 +1,26 @@
 body {
-  background-color: #170800;
+  background-color: #242424;
   height: 100vh; /* 100% of the viewport height */
   margin: 0; /* recommended */
 }
 #title {
-  color:#4a1e07;
+  color: #dec887;
   position: absolute; 
    top: 50%; 
    transform: translateY(-50%); 
    width: 100%; 
    text-align: center;
    margin: 0;
+  background: #3d3a32;
+  padding: 2rem;
 }
+
+.title-wrap {
+  max-width: 250px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to left, #333, #333 50%, #e6ba63 75%, #333 75%););
+  padding: 3px;
+}
+
+
