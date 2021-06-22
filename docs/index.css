@@ -1,16 +1,16 @@
 body {
   background-color: #242424;
-  height: 100vh; /* 100% of the viewport height */
-  margin: 0; /* recommended */
+  height: 100vh; 
+  margin: 0; 
+  place-items: center;
 }
 #title {
   color: #dec887;
-  position: absolute; 
+  position: relative; 
    top: 50%; 
    transform: translateY(-50%); 
    width: 100%; 
    text-align: center;
-   margin: 0;
   background: #3d3a32;
   padding: 2rem;
 }
