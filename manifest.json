@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "chat",
-  "short_name": "chat",
+  "name": "Sophie Guan",
+  "short_name": "Sophie Guan",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "icons": [
