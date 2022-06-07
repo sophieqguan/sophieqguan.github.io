@@ -1,4 +1,3 @@
 # sophieqguan.github.io
-sophieguan.me
 
-built using React Native and Expo
+Version 1 Website, Archived
